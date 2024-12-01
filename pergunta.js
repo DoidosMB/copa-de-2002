@@ -15,7 +15,7 @@ criarCartao(
     "Foram 161 gols em 64 jogos"
 )
 criarCartao( 
-    "Quem foi eleito o melhor jogador da Copa do Mundo DE 2002?",
+    "Quem foi eleito o melhor jogador da Copa do Mundo de 2002?",
     "Oliver Kahn"
 )
 criarCartao( 
