@@ -1,24 +1,24 @@
 criarCartao( 
-    "Maior artilheiro do corinthians de 2024?",
-    "Yuri Alberto: 12 gols em 24 jogos."
+    "Quem foi o artilheiro da Copa do Mundo de 2002?",
+    "Ronaldo fenomeno."
 )
 criarCartao( 
-    "Jogador mais caro do futebol brasileiro de 2024",
-    "Thiago Almada (Botafogo) - R$ 137,4 milhões em 2024."
+    "Quem ganhou a Copa do Mundo de 2002?",
+    "A seleção Brasileira."
 )
 criarCartao( 
-    "Clube que mais revelou jogadores?",
-    "São Paulo é quem mais revela jogadores no País"
+    "Onde foi realizada a Copa do Mundo de 2002?",
+    "Japão e Coreia do sul"
 )
 criarCartao( 
-    "Quem foi o campeão da copa paulista de 2021?",
-    "O campeonato teve como campeão o São Paulo"
+    "Qual foi o total de gols ocorridos na Copa do Mundo de 2002?",
+    "Foram 161 gols em 64 jogos"
 )
 criarCartao( 
-    "Quem foi o primeiro campeão brasileiro?",
-    "O Cruzeiro foi o primeiro campeão nesse formato."
+    "Quem foi eleito o melhor jogador da Copa do Mundo?",
+    "Oliver Kahn"
 )
 criarCartao( 
-    "Clube com mais títulos nacionais?",
-    "Flamengo e Grêmio"
+    "Qual foi o placar da final da Copa do Mundo de 2002?",
+    "Brasil 2 x 0 Alemanha"
 )
